@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "EFFDBCD41F2F86C90018CB5B"
+               BlueprintIdentifier = "EFFDBCF21F2F8ED40018CB5B"
                BuildableName = "HelloWorldExample.app"
                BlueprintName = "HelloWorldExample"
                ReferencedContainer = "container:HelloWorldExample.xcodeproj">
@@ -32,7 +32,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "EFFDBCD41F2F86C90018CB5B"
+            BlueprintIdentifier = "EFFDBCF21F2F8ED40018CB5B"
             BuildableName = "HelloWorldExample.app"
             BlueprintName = "HelloWorldExample"
             ReferencedContainer = "container:HelloWorldExample.xcodeproj">
@@ -55,7 +55,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "EFFDBCD41F2F86C90018CB5B"
+            BlueprintIdentifier = "EFFDBCF21F2F8ED40018CB5B"
             BuildableName = "HelloWorldExample.app"
             BlueprintName = "HelloWorldExample"
             ReferencedContainer = "container:HelloWorldExample.xcodeproj">
@@ -74,7 +74,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "EFFDBCD41F2F86C90018CB5B"
+            BlueprintIdentifier = "EFFDBCF21F2F8ED40018CB5B"
             BuildableName = "HelloWorldExample.app"
             BlueprintName = "HelloWorldExample"
             ReferencedContainer = "container:HelloWorldExample.xcodeproj">
